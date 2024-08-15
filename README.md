@@ -1,6 +1,6 @@
 # Rice Purchase Prediction
 
-![Rice Banner](rice_banner.png)
+![Rice Banner](img/rice_banner.png)
 
 ## Overview 
 
