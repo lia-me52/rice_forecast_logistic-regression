@@ -1,6 +1,8 @@
 # Rice Purchase Prediction
 
-## Overview 🌾📈
+![Rice Banner](rice_banner.png)
+
+## Overview 
 
 Machine learning project aimed at predicting the need to purchase rice based on various factors such as days since last purchase, weather conditions, and sales data. This project uses logistic regression to create a predictive model that forecasts whether rice purchase is needed.
 
